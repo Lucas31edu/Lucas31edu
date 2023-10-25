@@ -1,38 +1,38 @@
-!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Meu Site</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parana Aikido Club</title>
 </head>
 <body>
     <header>
-        <h1>Bem-vindo ao Meu Site</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="classes.html">Classes</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
     </header>
-    <nav>
-        <ul>
-            <li><a href="#">Página Inicial</a></li>
-            <li><a href="#">Sobre Nós</a></li>
-            <li><a href="#">Contato</a></li>
-        </ul>
-    </nav>
-    
     <main>
-        <section>
-            <h2>Sobre Nós</h2>
-            <p>Somos uma equipe dedicada a criar conteúdo incrível para a web.</p>
+        <section id="welcome">
+            <h1>Welcome to Parana Aikido Club</h1>
+            <p>We offer Aikido classes for all levels and ages. Join us and experience the unique art of self-defense.</p>
         </section>
-      
-        <section>
-            <h2>Contato</h2>
-            <p>Você pode nos contatar em <a href="mailto:contato@meusite.com">contato@meusite.com</a>.</p>
+        <section id="classes">
+            <h2>Aikido Classes</h2>
+            <ul>
+                <li>Beginner Aikido: Mondays and Wednesdays at 6:30 PM</li>
+                <li>Intermediate Aikido: Tuesdays and Thursdays at 7:30 PM</li>
+                <li>Advanced Aikido: Saturdays at 10:00 AM</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p>Phone: (555) 123-4567</p>
+            <p>Email: info@paranaaikidoclub.com</p>
+            <p>Address: 1234 Aikido Way, City, State, ZIP</p>
         </section>
     </main>
-    
-    <footer>
-        <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
-    </footer>
-</body>
-</html>
-<img src="dowloand.jpeg">
-
+    <
