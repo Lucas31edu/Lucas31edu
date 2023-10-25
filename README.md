@@ -23,6 +23,7 @@
             <h2>Sobre Nós</h2>
             <p>Somos uma equipe dedicada a criar conteúdo incrível para a web.</p>
         </section>
+<img src="dowloand.jpeg" alt="description of the image">
         
         <section>
             <h2>Contato</h2>
