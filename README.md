@@ -9,7 +9,7 @@
     <header>
         <h1>Bem-vindo ao Meu Site</h1>
     </header>
-    
+    <img src="dowloand.jpeg" alt="description of the image">
     <nav>
         <ul>
             <li><a href="#">Página Inicial</a></li>
@@ -23,8 +23,7 @@
             <h2>Sobre Nós</h2>
             <p>Somos uma equipe dedicada a criar conteúdo incrível para a web.</p>
         </section>
-<img src="dowloand.jpeg" alt="description of the image">
-        
+      
         <section>
             <h2>Contato</h2>
             <p>Você pode nos contatar em <a href="mailto:contato@meusite.com">contato@meusite.com</a>.</p>
@@ -36,3 +35,4 @@
     </footer>
 </body>
 </html>
+<img src="dowloand.jpeg" alt="description of the image">
