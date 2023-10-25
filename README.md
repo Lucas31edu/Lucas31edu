@@ -9,7 +9,6 @@
     <header>
         <h1>Bem-vindo ao Meu Site</h1>
     </header>
-    <img src="dowloand.jpeg" alt="description of the image">
     <nav>
         <ul>
             <li><a href="#">Página Inicial</a></li>
@@ -35,4 +34,5 @@
     </footer>
 </body>
 </html>
-<img src="dowloand.jpeg" alt="description of the image">
+<img src="dowloand.jpeg">
+
