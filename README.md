@@ -13,10 +13,12 @@
 
     <div id="tab1Content" class="tab-content">
         <p>Conteúdo da Aba 1</p>
+        <img src="caminho/para/sua/imagem1.jpg" alt="Descrição da imagem 1">
     </div>
 
     <div id="tab2Content" class="tab-content">
         <p>Conteúdo da Aba 2</p>
+        <img src="caminho/para/sua/imagem2.jpg" alt="Descrição da imagem 2">
     </div>
 
     <script src="script.js"></script>
