@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="tab" onclick="openTab('tab1')">Aba 1</div>
-    <div class="tab" onclick="openTab('tab2')">Aba 2</div>
+    <div class="tab" onclick="openTab('tab1')">BOlsonaro</div>
+    <div class="tab" onclick="openTab('tab2')">Lula2</div>
 
     <div id="tab1Content" class="tab-content">
         <p>Conteúdo da Aba 1</p>
